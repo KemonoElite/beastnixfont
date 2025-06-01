@@ -17,6 +17,6 @@
   };
   ny = {
     url = "https://devimages-cdn.apple.com/design/resources/download/NY.dmg";
-    hash = "sha256-tn1QLCSjgo5q4PwE/we80pJavr3nHVgFWrZ8cp29qBk=";
+    hash = "sha256-HC7ttFJswPMm+Lfql49aQzdWR2osjFYHJTdgjtuI+PQ=";
   };
 }
