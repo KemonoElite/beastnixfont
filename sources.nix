@@ -13,7 +13,7 @@
   };
   sf-arabic = {
     url = "https://devimages-cdn.apple.com/design/resources/download/SF-Arabic.dmg";
-    hash = "sha256-Vvfl9ByKww55lE3RTIx4TOEfuyVkENCMbHLYFGLhp2o=";
+    hash = "sha256-J2DGLVArdwEsSVF8LqOS7C1MZH/gYJhckn30jRBRl7k=";
   };
   ny = {
     url = "https://devimages-cdn.apple.com/design/resources/download/NY.dmg";
